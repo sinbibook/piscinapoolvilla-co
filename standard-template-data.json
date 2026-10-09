@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-08-31T01:32:36.139619069Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-09T07:29:04.887406010Z",
     "templateType": "trip_d",
     "propertyId": "b7d0af89-49f8-4940-8ab2-eb9edf089c28",
     "homepageId": "f729805a-ac95-4028-99e2-4f11cb2df040"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 (필수)\n※ 얼리 체크인, 레이트체크아웃 1시간당 30,000원 (현장결제)",
-    "usageGuide": "- 커플+커플 구성의 2팀 1객실, 동일인 및 일행의 3객실 이상 예약 불가합니다.\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 (필수)\n※ 얼리 체크인, 레이트체크아웃 1시간당 30,000원 (현장결제)\n\n[인원추가요금]\n※기준 인원 초과 시 추가 요금 발생\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 1회 20,000원 (1박기준/현장결제)\n- 이용 시간: ~ 22:00\n※ 성수기 ~ 23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 개인 숯 및 화기 용품 지참 및 이용 불가\n※ 신청 시간: 입실 전 사전 문의\n\n[공용수영장]\n- 운영 기간 : 7월 17일 ~ 9월 중순까지 운영\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 20m x 11m x 1.6m\n※ 어린이 수영장, 성인 수영장 2개로 나눠서 이용\n※ 계절에 따른 이슈가 있을시 수영장 이용이 어려울 수 있음\n※ 날씨에 따라 이용일자 변동될 수 있음\n※ 대형튜브 사용은 안전상의 이유로 통제\n※ 유아는 방수기저귀 착용 후 입수 가능\n※ 고객의 부주의로 인한 안전사고에 대해서는 책임지지 않으며 특히 자녀분들의 안전에 유의해 주시기 바랍니다.\n※ 안전수칙은 필히 지켜주시고 안전하고 즐거운 물놀이를 위해 서로간의 배려 부탁드립니다.\n\n[개별수영장]\n- 운영 기간: 2026년 운영 미정 \n- 이용 객실: P101\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 2m x 3m x 1m\n※ 미온수 이용 불가\n※ 공용수영장 이용 가능\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n※ 자쿠지\n※ 퇴실 전 사용 금지\n※ 자쿠지 무단 이용 후 퇴실 시 10만원의 벌금이 발생합니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료",
+    "usageGuide": "[공지사항]\n- 커플+커플 구성의 2팀 1객실, 동일인 및 일행의 3객실 이상 예약 불가합니다.\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 (필수)\n※ 얼리 체크인, 레이트체크아웃 1시간당 30,000원 (현장결제)\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※기준 인원 초과 시 추가 요금 발생\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 가스그릴\n- 이용 요금: 1회 20,000원 (1박기준/현장결제)\n- 이용 시간: ~ 22:00\n※ 성수기 ~ 23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 개인 숯 및 화기 용품 지참 및 이용 불가\n※ 신청 시간: 입실 전 사전 문의\n\n[공용수영장]\n- 운영 기간 : 7월 17일 ~ 9월 20일까지\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 20m x 11m x 1.6m\n※ 어린이 수영장, 성인 수영장 2개로 나눠서 이용\n※ 계절에 따른 이슈가 있을시 수영장 이용이 어려울 수 있음\n※ 날씨에 따라 이용일자 변동될 수 있음\n※ 대형튜브 사용은 안전상의 이유로 통제\n※ 유아는 방수기저귀 착용 후 입수 가능\n※ 고객의 부주의로 인한 안전사고에 대해서는 책임지지 않으며 특히 자녀분들의 안전에 유의해 주시기 바랍니다.\n※ 안전수칙은 필히 지켜주시고 안전하고 즐거운 물놀이를 위해 서로간의 배려 부탁드립니다.\n\n[개별수영장]\n- 운영 기간: 2026년 운영 미정 \n- 이용 객실: P101\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 2m x 3m x 1m\n※ 미온수 이용 불가\n※ 공용수영장 이용 가능\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n※ 자쿠지\n※ 퇴실 전 사용 금지\n※ 자쿠지 무단 이용 후 퇴실 시 10만원의 벌금이 발생합니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료",
     "reservationGuide": "- 커플+커플 구성의 2팀 1객실, 동일인 및 일행의 3객실 이상 예약 불가합니다.\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "piscinapoolvilla.co.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1704068628",
     "ybsId": "75508",
+    "tripPropertyId": "7088",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -70,7 +73,7 @@
         "id": "3ea92915-d86e-46b4-8f22-c0ff346746fa",
         "name": "공용수영장",
         "description": "",
-        "usageGuide": "- 운영 기간 : 7월 17일 ~ 9월 중순까지 운영\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 20m x 11m x 1.6m\n※ 어린이 수영장, 성인 수영장 2개로 나눠서 이용\n※ 계절에 따른 이슈가 있을시 수영장 이용이 어려울 수 있음\n※ 날씨에 따라 이용일자 변동될 수 있음\n※ 대형튜브 사용은 안전상의 이유로 통제\n※ 유아는 방수기저귀 착용 후 입수 가능\n※ 고객의 부주의로 인한 안전사고에 대해서는 책임지지 않으며 특히 자녀분들의 안전에 유의해 주시기 바랍니다.\n※ 안전수칙은 필히 지켜주시고 안전하고 즐거운 물놀이를 위해 서로간의 배려 부탁드립니다.",
+        "usageGuide": "- 운영 기간 : 7월 17일 ~ 9월 20일까지\n- 이용 요금: 무료\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 온도: 냉수\n- 수영장 크기: 20m x 11m x 1.6m\n※ 어린이 수영장, 성인 수영장 2개로 나눠서 이용\n※ 계절에 따른 이슈가 있을시 수영장 이용이 어려울 수 있음\n※ 날씨에 따라 이용일자 변동될 수 있음\n※ 대형튜브 사용은 안전상의 이유로 통제\n※ 유아는 방수기저귀 착용 후 입수 가능\n※ 고객의 부주의로 인한 안전사고에 대해서는 책임지지 않으며 특히 자녀분들의 안전에 유의해 주시기 바랍니다.\n※ 안전수칙은 필히 지켜주시고 안전하고 즐거운 물놀이를 위해 서로간의 배려 부탁드립니다.",
         "displayOrder": 1,
         "images": [
           {
@@ -313,9 +316,9 @@
       {
         "thumbnail": [
           {
-            "id": "0c928ddb-1071-4bef-8f76-9265ebbe40d5",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/ROAV2JBdstx1.jpg",
-            "sortOrder": 0,
+            "id": "78012b81-6814-4638-8dd1-fe25e00809fe",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/7aeAQPsgM8YU.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +328,7 @@
           {
             "id": "76991851-a61a-46aa-9bfa-2a4886d99f48",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/Yx8THpsLlJq3.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,15 +336,15 @@
           {
             "id": "6241a740-9fef-4ed9-8111-e4a768fbc8c3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/u4BspGH097em.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "78012b81-6814-4638-8dd1-fe25e00809fe",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/7aeAQPsgM8YU.jpg",
-            "sortOrder": 2,
+            "id": "0c928ddb-1071-4bef-8f76-9265ebbe40d5",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/ROAV2JBdstx1.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +352,7 @@
           {
             "id": "88b32d80-b23a-4c82-b2b1-0160ee62ff2c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/PaW1bxhgKGA7.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,7 +360,7 @@
           {
             "id": "1783c9e9-bd72-4a55-b24d-4c30db456815",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/23LBO4yiSMoX.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -365,7 +368,7 @@
           {
             "id": "39d090f6-9650-4ec4-8a28-fa891b3c8aeb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/WcJDbqk8ZnFj.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +376,7 @@
           {
             "id": "8bac9ceb-fdbd-40ae-95e7-e34db3c4d1bf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/ZSC3N7t5gnLr.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +384,7 @@
           {
             "id": "cc1f4eb6-8e2c-401a-bf03-158fcdb87ca1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/gslYEI685RwT.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -389,7 +392,7 @@
           {
             "id": "c0dd9356-c897-4923-8b30-dd9c81e4f02c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/pJoOeZWM9iHK.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -397,7 +400,7 @@
           {
             "id": "377beccd-5ab0-4999-944a-f9686a653961",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/3vL51hMuK9XH.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -488,7 +491,7 @@
         {
           "thumbnail": [
             {
-              "id": "718ae0c4-90c8-443f-8ed3-328dae56e613",
+              "id": "53d5e04c-4dc7-406d-b73f-fe0189ce0a0c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/5vj7PfVEko23.jpg",
               "sortOrder": 19,
               "description": "",
@@ -498,7 +501,7 @@
           ],
           "interior": [
             {
-              "id": "fa008f51-adda-444c-917c-9d4d8735f17d",
+              "id": "aa8d5c57-aa45-49db-b49f-ff0de8095e58",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/LIoUqeJRsuZr.jpg",
               "sortOrder": 20,
               "description": "",
@@ -506,7 +509,7 @@
               "blockId": null
             },
             {
-              "id": "74570de6-1a64-45d9-8040-81280a49a6f0",
+              "id": "c92ba73d-9156-4d75-873f-cfff6b4953f6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/9Gea14vjE5A2.jpg",
               "sortOrder": 21,
               "description": "",
@@ -514,7 +517,7 @@
               "blockId": null
             },
             {
-              "id": "03fdc982-aabe-4e93-a524-262f90358937",
+              "id": "6c17f4a9-8d68-4de3-970e-66ecfd83d371",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/tRsirUP2E0aC.jpg",
               "sortOrder": 22,
               "description": "",
@@ -522,7 +525,7 @@
               "blockId": null
             },
             {
-              "id": "75ac7631-b76d-4f73-b68d-9c8053683444",
+              "id": "8aee853a-8085-4837-81c7-ee88dee91ab6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/GREa8oD9gT6d.jpg",
               "sortOrder": 23,
               "description": "",
@@ -530,7 +533,7 @@
               "blockId": null
             },
             {
-              "id": "c4a57f82-53c0-46e7-8ec6-ccb35eaf6bfd",
+              "id": "4a9ffdd3-e6d2-4377-94c3-a33ec5e94bf9",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/Y5TZNpEUyzeO.jpg",
               "sortOrder": 24,
               "description": "",
@@ -538,7 +541,7 @@
               "blockId": null
             },
             {
-              "id": "78d0f9a5-10e1-4cdf-9959-29d347b84e5c",
+              "id": "a39f3107-fecd-4d76-bede-1b8878475da6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/c7H5yOlU1TpF.jpg",
               "sortOrder": 25,
               "description": "",
@@ -546,7 +549,7 @@
               "blockId": null
             },
             {
-              "id": "06a49c6a-f054-441e-9d3f-95eb12ddf614",
+              "id": "3f7b80db-005a-4991-9e33-9d5484846029",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/GeSrUgO9FY5k.jpg",
               "sortOrder": 26,
               "description": "",
@@ -554,7 +557,7 @@
               "blockId": null
             },
             {
-              "id": "b2172339-8f28-4e9e-8e35-b26ade945e58",
+              "id": "ec904118-d0ca-4abf-a8d8-b647a8c2b7cd",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/JKVsgk8YBE9e.jpg",
               "sortOrder": 27,
               "description": "",
@@ -562,7 +565,7 @@
               "blockId": null
             },
             {
-              "id": "9c0c691e-5b4a-4f58-8a52-400d5935aceb",
+              "id": "e6ca7236-914e-4faf-b8b2-52e4578e6fde",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/6RHL2c5aNs8q.jpg",
               "sortOrder": 28,
               "description": "",
@@ -570,7 +573,7 @@
               "blockId": null
             },
             {
-              "id": "a480b6d8-d1be-4906-b9a9-6ca786a215bb",
+              "id": "fdab5198-33de-459c-8baa-6aaa2aca862e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/GHYs1VLctKZQ.jpg",
               "sortOrder": 29,
               "description": "",
@@ -578,7 +581,7 @@
               "blockId": null
             },
             {
-              "id": "c59512e3-134f-4008-813f-b1d4e439ccfa",
+              "id": "361e8b5f-f52d-448c-9d68-4bd5bdeb90b2",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/ub9CknS4VyOZ.jpg",
               "sortOrder": 30,
               "description": "",
@@ -586,7 +589,7 @@
               "blockId": null
             },
             {
-              "id": "a477d3a6-d19f-49ab-87a6-51776021a50b",
+              "id": "89aae7bc-128b-44aa-a508-dc56a4aca667",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/zcrAwBhQqkN4.jpg",
               "sortOrder": 31,
               "description": "",
@@ -594,7 +597,7 @@
               "blockId": null
             },
             {
-              "id": "e6869ebf-8017-4eed-b1ca-79402944d1fb",
+              "id": "38ffda8e-fff0-4a03-9f6a-4fc7d09393de",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/21/ygQbsIAwmu5j.jpg",
               "sortOrder": 32,
               "description": "",
@@ -1074,6 +1077,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
